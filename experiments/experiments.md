@@ -59,7 +59,7 @@ This experiment could be the basis of a real world application such as a charger
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Home-made mood lighting
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -70,13 +70,13 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was the dynamic use of colour in light and how easy it is to change it to something that you like.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a colour-changing light or a pool light.
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Day sensor
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -87,7 +87,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to use a light sensor and even using the Microbit by itself to light up as well.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a light sensor, to start a process or turn something on.
 
