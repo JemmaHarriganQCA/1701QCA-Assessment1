@@ -26,33 +26,33 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: Ignorance to the thinking behind products and how our brains work in that way. Its not something that I had ever thought of.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: In this article I learnt about how the brain percieves something in such a way that something it has never seen before, it can work out how to use it. Its interesting the way a good design can be put together to not have instructions to have the user use the product staright away.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: I would like to learn more about good signifiers and how people have used them in good designs.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: I want my design to be good enough that someone can work out how to use it with minimal instructions, having a clear aim and purpose.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: I don't think I completely understood what I was creating or how much it mattered in the view of the world and its new technology. Also how much of a difference a Microinteraction can make.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: How the process should go, creating a product, as well as the importance of Microinteractions and having a good design to it. It truly makes a difference all of the little details that you put into it. Like how they talked about the difference between phones, the little annoying things that differentiate them from the rest, giving good examples of how good design matters.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: The right degree of giving something functionality, but with the least technicality possible, to make something simple but complictaed enough.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: This gives me good advice about how I am going to design my plant waterer, how I can change it to have a better design, to make it easy yet is completely functional.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: I thought that the process was quite simple, but there can be many layers to designing something. As well as that you would only start something if you were determined to make it.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: I learnt that things dont always turn out the way they seem that they will. I thought the case study was interesting to read. Firstly, because of the way it started, it came out of an interest to learn more about something. It turned into a full scale project that helped people out. What also surprised me was the amount of times it didnt work, so they had to find a new solution and if they hadn't used it before they took it as an opportunity to learn more.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: I dont know much about these things, but I thought the motion sensors were interesting and would maybe like to try it out oneday.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: I think just the general attitude of the author when he is going through all of it. Many of the experiments I am doing don't always work out and I tend to give up, so with this class I think I can take on a can-do attitude, even though I feel like I am not getting anywhere.
 
 
 ## Interaction flowchart ##
