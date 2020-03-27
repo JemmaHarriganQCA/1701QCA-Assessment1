@@ -11,13 +11,58 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Interactive Plant wall
 
-(Insert URL to project)
+https://vimeo.com/275720962
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses a soil moisture tester. They have used it for educational reasons but have added some fun things to it, thats why I found this interesting to watch.
+
+### Related project 2 ###
+Interactive Sound Plant
+
+https://vimeo.com/105370889
+
+![Image](missingimage.png)
+
+This project is related to mine because they use a soil moisture tester to tell when the soil is dry or not. They have made it with sound rather than just a screen, which I think waas a cool idea.
+
+### Related project 3 ###
+name
+
+URL
+
+![Image](missingimage.png)
+
+This project is related to mine because...
+
+### Related project 4 ###
+name
+
+URL
+
+![Image](missingimage.png)
+
+This project is related to mine because...
+
+### Related project 5 ###
+name
+
+URL
+
+![Image](missingimage.png)
+
+This project is related to mine because...
+
+### Related project 6 ###
+name
+
+URL
+
+![Image](missingimage.png)
+
+This project is related to mine because...
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
