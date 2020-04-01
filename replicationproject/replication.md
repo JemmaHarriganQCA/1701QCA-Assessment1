@@ -29,40 +29,40 @@ https://vimeo.com/105370889
 This project is related to mine because they use a soil moisture tester to tell when the soil is dry or not. They have made it with sound rather than just a screen, which I think waas a cool idea.
 
 ### Related project 3 ###
-name
+Interactive Plant Growing (1993)
 
-URL
+http://www.asu.edu/cfa/art/people/faculty/collins/Interaction/
 
 ![Image](missingimage.png)
 
-This project is related to mine because...
+This project is related to mine because they use plants
 
 ### Related project 4 ###
-name
+Radiant Soil
 
-URL
+http://www.digiart21.org/art/radiant-soil
 
 ![Image](missingimage.png)
 
-This project is related to mine because...
+This project is related to mine because the artist explores the idea that plants are living things. My project uses the signs that a living plant gives away, using the nutrients that it feeds from to help us know when it needs water.
 
 ### Related project 5 ###
-name
+Servo Motor Artwork
 
-URL
+https://create.arduino.cc/projecthub/doug-domke/servo-motor-artwork-79e2d3
 
 ![Image](missingimage.png)
 
-This project is related to mine because...
+This project is related to mine because they use a servo motor to make an effect. Its an interesting idea when you put lots of them together and see the patterns they make.
 
 ### Related project 6 ###
-name
+The Wooden Mirror
 
-URL
+https://www.youtube.com/watch?list=PL42CBF685AE29AEFC&v=BZysu9QcceM&feature=emb_logo
 
 ![Image](missingimage.png)
 
-This project is related to mine because...
+This project is related to mine because of the use of Servo Motors, through the interaction of a sensor. They use motion, whilst I use a soil moisture sensor. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
