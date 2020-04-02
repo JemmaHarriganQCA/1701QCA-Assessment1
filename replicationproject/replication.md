@@ -26,7 +26,7 @@ https://vimeo.com/105370889
 
 ![Image](missingimage.png)
 
-This project is related to mine because they use a soil moisture tester to tell when the soil is dry or not. They have made it with sound rather than just a screen, which I think waas a cool idea.
+This project is related to mine because they use a soil moisture tester to tell when the soil is dry or not. They have made it with sound rather than just a screen, which I think was a cool idea.
 
 ### Related project 3 ###
 Interactive Plant Growing (1993)
@@ -35,7 +35,7 @@ http://www.asu.edu/cfa/art/people/faculty/collins/Interaction/
 
 ![Image](missingimage.png)
 
-This project is related to mine because they use plants
+This project is related to mine because they use plants to educate and use the tactility of the natural elements. I thought this was interesting because it gave the user a creative avenue, creating new plants and seeing them grow gives them a sense of achievement.
 
 ### Related project 4 ###
 Radiant Soil
@@ -107,47 +107,64 @@ How this relates to the project I am working on: I think just the general attitu
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+I chose to replicate the self plant watering system because it looked interesting in that it was practical as well as involving plants, which I have a lot at home and enjoy keeping. 
+It took me a bit to manage to get all my materials, I had to wait for them to come in the mail, but when they got here I started off with my soil moisture sensor.
 
 ![Image](missingimage.png)
 
-*Include screenshots of the code you have used.*
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+I followed the first step of testing the dry and wet dirt to callibrate the Microbit, taking the Javascript from the insructions on the Makecode website. I was a little confused at why it didnt work for a while, the Microbit lit up with every touch of the soil, then I realised I didn't need to stick the nails in that far, just to touch the surface and it worked fine.
+
+![Image](missingimage.png)
+
+Next step was to make it show a reading when I pressed A on the Microbit, using similar coding but adding numbers between 1-1023 instead of the bar graph, it read the numbers 442 on the dry soil and 1004 for the wet soil. 
+
+The last step of my moisture tester was to lower the power through the brightness and the amount of time it had to take the reading. It added a couple of seconds between the readings. I thought this was good but kind of confusing when it came to working out what was meant to be happening as a result. It worked fine when I realised the time gap between the readings.
+
+![Image](missingimage.png)
+
+With the success of the Soil Moisture tester, I began to code for the Self waterer. It essentially added the Micro-servo motor, making it tilt 80 degrees then pausing then tilting back to its original position. I copied the code from the instructional website.
+
+![Image](missingimage.png)
+
+The next step was to build the project. I had studied it a few times before so I went ahead to put it all together. 
+
+![Image](missingimage.png)
+
+My materials worked fine til I added the microbit in and put on all the wires and clips. I realised that I needed a better setup with the pot and the cup with the water. The cup was too small so the lever wouldn't reach the pot properly. So I went to find a taller cup and a smaller pot plant to use. I found the perfect size and tested it with the whole process to find that it worked perfectly.
+
+![Image](missingimage.png)
 
 ## Project outcome ##
 
 *Complete the following information.*
 
 ### Project title ###
+The Lazy Waterer
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This Project is a self plant watering system, designed for any individual who is either too busy or too lazy to water their plants. It can be used in any home and is very easy to use.
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
 ![Image](missingimage.png)
 
-### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
+### Additional view ##
 
 ![Image](missingimage.png)
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+I thought this project was successful, it didn't take much time to build and I understood it easy enough to see what was happening and to fix any problems that occured. I think it could have been better with a more convenient design where one didn't see all the wires and could move it all as one body. This project could have many relevant implications through this.
 
+I think the Article we read about above, Protoyping Interactive Objects by Scott Sullivan, was inspiring the way he kept going and learning from his mistakes, when things didn't work out they way he thought he found another solution. This inspired me to keep going even when it was frustrating when I didn't think my project was working. 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+I was inspired by many of the other projects that I found on the internet, all the ways people were using plants as a part of interactive art as well as science. Using the natural sources from the soil/plants to make something creative. For example, The interactive sound plant was quite simple, it included just the plant the chip and a computer. Yet the simplicity reinforced the purpose of the project, to show the aliveness of plants, we can read their signs/feelings and feed them. This project as well as the plethora of other similar projects showed me how much alive plants can be and how we can show and use it.
 
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+I think this project could be extended to a moving self-waterer. If we ever get to a place where everthing is done by robots, this project could be made into a robot that can move around the house and water the plants when they need to be. This could be done inside and outside, in public places for example. There are also many other implications that this project could go, the many exemplars that I found for this project as an example, using the plants signs and feelings to educate or make something creative out of.
