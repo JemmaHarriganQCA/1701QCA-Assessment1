@@ -103,7 +103,7 @@ How this relates to the project I am working on: I think just the general attitu
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](IMG_6808.JPG)
+image of flowchart
 
 ## Process documentation
 
@@ -114,14 +114,17 @@ It took me a bit to manage to get all my materials, I had to wait for them to co
 
 ![Materials](https://user-images.githubusercontent.com/62362612/78202033-887df180-74d6-11ea-9eeb-f77d1bdff5b3.JPG)
 
+image of flowchart
 
-I followed the first step of testing the dry and wet dirt to callibrate the Microbit, taking the Javascript from the insructions on the Makecode website. I was a little confused at why it didnt work for a while, the Microbit lit up with every touch of the soil, then I realised I didn't need to stick the nails in that far, just to touch the surface and it worked fine.
+I followed the first step of testing the dry and wet dirt to callibrate the Microbit, taking the Javascript from the insructions on the Makecode website. 
 
-![Soil moisture code](https://user-images.githubusercontent.com/62362612/78201893-1d341f80-74d6-11ea-81cb-ffc971c7bcbd.png)
+I was a little confused at why it didnt work for a while, the Microbit lit up with every touch of the soil, then I realised I didn't need to stick the nails in that far, just to touch the surface and it worked fine.
 
 Next step was to make it show a reading when I pressed A on the Microbit, using similar coding but adding numbers between 1-1023 instead of the bar graph, it read the numbers 442 on the dry soil and 1004 for the wet soil. 
 
 The last step of my moisture tester was to lower the power through the brightness and the amount of time it had to take the reading. It added a couple of seconds between the readings. I thought this was good but kind of confusing when it came to working out what was meant to be happening as a result. It worked fine when I realised the time gap between the readings.
+
+![Soil moisture code](https://user-images.githubusercontent.com/62362612/78201893-1d341f80-74d6-11ea-81cb-ffc971c7bcbd.png)
 
 ![Moisture tester wet](https://user-images.githubusercontent.com/62362612/78207320-aeaa8e00-74e4-11ea-8a88-63c4fec20cd2.JPG)
 
@@ -129,16 +132,15 @@ The last step of my moisture tester was to lower the power through the brightnes
 
 With the success of the Soil Moisture tester, I began to code for the Self waterer. It essentially added the Micro-servo motor, making it tilt 80 degrees then pausing then tilting back to its original position. A well as simply adding to the moisture sensor code so when it read that it was below 500 it would water the plant, when it read it was over 500 then it wouldn't. I copied the code from the instructional website.
 
-![Image](missingimage.png)
+![Plant waterer code](https://user-images.githubusercontent.com/62362612/78201538-338dab80-74d5-11ea-94b6-c450be8890f4.png)
 
 The next step was to build the project. I had studied it a few times before so I went ahead to put it all together. 
 
-![Plant waterer code](https://user-images.githubusercontent.com/62362612/78201538-338dab80-74d5-11ea-94b6-c450be8890f4.png)
-
+![Project Diagram ](https://user-images.githubusercontent.com/62362612/78201959-59678000-74d6-11ea-80a1-ec04c361d50b.JPG)
 
 My materials worked fine til I added the microbit in and put on all the wires and clips. I realised that I needed a better setup with the pot and the cup with the water. The cup was too small so the lever wouldn't reach the pot properly. So I went to find a taller cup and a smaller pot plant to use. I found the perfect size and tested it with the whole process to find that it worked perfectly.
 
-![Project Diagram ](https://user-images.githubusercontent.com/62362612/78201959-59678000-74d6-11ea-80a1-ec04c361d50b.JPG)
+image of outcome
 
 ## Project outcome ##
 
