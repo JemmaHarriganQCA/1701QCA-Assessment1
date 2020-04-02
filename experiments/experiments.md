@@ -11,11 +11,8 @@
 3 Button Buzzer (6)
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
-
-(Insert a caption here)
+![buzzer](https://user-images.githubusercontent.com/62362612/78210613-0a2d4980-74ee-11ea-9647-3e28c9ab52fa.JPG)
 
 #### Reflection ####
 
@@ -28,11 +25,8 @@ This experiment could be the basis of a real world application such as any buzze
 Motion Control (5)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
-
-(Insert a caption here)
+![fan](https://user-images.githubusercontent.com/62362612/78210629-1d401980-74ee-11ea-9d99-3c1308ee3999.JPG)
 
 #### Reflection ####
 
@@ -45,11 +39,8 @@ This experiment could be the basis of a real world application such as a kids to
 Capacitor Charge Circuit (9)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image]()
-
-(Insert a caption here)
+![percentage lights](https://user-images.githubusercontent.com/62362612/78210560-e9fd8a80-74ed-11ea-8b80-583828be49fa.JPG)
 
 #### Reflection ####
 
@@ -62,11 +53,8 @@ This experiment could be the basis of a real world application such as a charger
 Home-made mood lighting
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
-
-(Insert a caption here)
+![rgb light](https://user-images.githubusercontent.com/62362612/78210537-d6eaba80-74ed-11ea-89f6-3fdd1abfad8c.JPG)
 
 #### Reflection ####
 
@@ -79,11 +67,8 @@ This experiment could be the basis of a real world application such as a colour-
 Day sensor
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
-
-(Insert a caption here)
+![day and night](https://user-images.githubusercontent.com/62362612/78210489-b7ec2880-74ed-11ea-9975-3822eea27d54.JPG)
 
 #### Reflection ####
 
