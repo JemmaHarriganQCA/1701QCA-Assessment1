@@ -15,7 +15,7 @@ Interactive Plant wall
 
 https://vimeo.com/275720962
 
-![Image](missingimage.png)
+
 
 This project is related to mine because it uses a soil moisture tester. They have used it for educational reasons but have added some fun things to it, thats why I found this interesting to watch.
 
@@ -33,7 +33,7 @@ Interactive Plant Growing (1993)
 
 http://www.asu.edu/cfa/art/people/faculty/collins/Interaction/
 
-![Image](missingimage.png)
+![InteractivePlantGrowing](https://user-images.githubusercontent.com/62362612/78209291-f253c680-74e9-11ea-946a-766b507ff93d.jpg)
 
 This project is related to mine because they use plants to educate and use the tactility of the natural elements. I thought this was interesting because it gave the user a creative avenue, creating new plants and seeing them grow gives them a sense of achievement.
 
@@ -42,7 +42,7 @@ Radiant Soil
 
 http://www.digiart21.org/art/radiant-soil
 
-![Image](missingimage.png)
+![radiantsoil](https://user-images.githubusercontent.com/62362612/78209473-74dc8600-74ea-11ea-86b7-4160873e9967.jpg)
 
 This project is related to mine because the artist explores the idea that plants are living things. My project uses the signs that a living plant gives away, using the nutrients that it feeds from to help us know when it needs water.
 
@@ -51,7 +51,7 @@ Servo Motor Artwork
 
 https://create.arduino.cc/projecthub/doug-domke/servo-motor-artwork-79e2d3
 
-[Servo Motor Artwork](https://user-images.githubusercontent.com/62362612/78201208-61262500-74d4-11ea-96d8-15f807d93027.png)
+![servo motor artwork](https://user-images.githubusercontent.com/62362612/78209489-802fb180-74ea-11ea-8d34-126be77e3f71.jpg)
 
 This project is related to mine because they use a servo motor to make an effect. Its an interesting idea when you put lots of them together and see the patterns they make.
 
