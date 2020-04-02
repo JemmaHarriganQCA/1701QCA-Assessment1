@@ -110,23 +110,22 @@ How this relates to the project I am working on: I think just the general attitu
 I chose to replicate the self plant watering system because it looked interesting in that it was practical as well as involving plants, which I have a lot at home and enjoy keeping. 
 It took me a bit to manage to get all my materials, I had to wait for them to come in the mail, but when they got here I started off with my soil moisture sensor.
 
-![Soil moisture code](https://user-images.githubusercontent.com/62362612/78201893-1d341f80-74d6-11ea-81cb-ffc971c7bcbd.png)
+![Material List](https://user-images.githubusercontent.com/62362612/78201993-73a15e00-74d6-11ea-847c-e119ef98491b.JPG)
 
-![Image](missingimage.png)
+![Materials](https://user-images.githubusercontent.com/62362612/78202033-887df180-74d6-11ea-9eeb-f77d1bdff5b3.JPG)
 
-![Image](missingimage.png)
-
-![Image](missingimage.png)
 
 I followed the first step of testing the dry and wet dirt to callibrate the Microbit, taking the Javascript from the insructions on the Makecode website. I was a little confused at why it didnt work for a while, the Microbit lit up with every touch of the soil, then I realised I didn't need to stick the nails in that far, just to touch the surface and it worked fine.
 
-![Image](missingimage.png)
+![Soil moisture code](https://user-images.githubusercontent.com/62362612/78201893-1d341f80-74d6-11ea-81cb-ffc971c7bcbd.png)
 
 Next step was to make it show a reading when I pressed A on the Microbit, using similar coding but adding numbers between 1-1023 instead of the bar graph, it read the numbers 442 on the dry soil and 1004 for the wet soil. 
 
 The last step of my moisture tester was to lower the power through the brightness and the amount of time it had to take the reading. It added a couple of seconds between the readings. I thought this was good but kind of confusing when it came to working out what was meant to be happening as a result. It worked fine when I realised the time gap between the readings.
 
-![Image](missingimage.png)
+![Moisture tester wet](https://user-images.githubusercontent.com/62362612/78207320-aeaa8e00-74e4-11ea-8a88-63c4fec20cd2.JPG)
+
+![Moisture tester dry](https://user-images.githubusercontent.com/62362612/78202134-ce3aba00-74d6-11ea-8e57-945dc683356e.JPG)
 
 With the success of the Soil Moisture tester, I began to code for the Self waterer. It essentially added the Micro-servo motor, making it tilt 80 degrees then pausing then tilting back to its original position. A well as simply adding to the moisture sensor code so when it read that it was below 500 it would water the plant, when it read it was over 500 then it wouldn't. I copied the code from the instructional website.
 
@@ -139,7 +138,7 @@ The next step was to build the project. I had studied it a few times before so I
 
 My materials worked fine til I added the microbit in and put on all the wires and clips. I realised that I needed a better setup with the pot and the cup with the water. The cup was too small so the lever wouldn't reach the pot properly. So I went to find a taller cup and a smaller pot plant to use. I found the perfect size and tested it with the whole process to find that it worked perfectly.
 
-![Image](missingimage.png)
+![Project Diagram ](https://user-images.githubusercontent.com/62362612/78201959-59678000-74d6-11ea-80a1-ec04c361d50b.JPG)
 
 ## Project outcome ##
 
