@@ -51,7 +51,7 @@ Servo Motor Artwork
 
 https://create.arduino.cc/projecthub/doug-domke/servo-motor-artwork-79e2d3
 
-![Image](missingimage.png)
+[Servo Motor Artwork](https://user-images.githubusercontent.com/62362612/78201208-61262500-74d4-11ea-96d8-15f807d93027.png)
 
 This project is related to mine because they use a servo motor to make an effect. Its an interesting idea when you put lots of them together and see the patterns they make.
 
