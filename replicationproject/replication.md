@@ -110,7 +110,7 @@ How this relates to the project I am working on: I think just the general attitu
 I chose to replicate the self plant watering system because it looked interesting in that it was practical as well as involving plants, which I have a lot at home and enjoy keeping. 
 It took me a bit to manage to get all my materials, I had to wait for them to come in the mail, but when they got here I started off with my soil moisture sensor.
 
-![Image](missingimage.png)
+![Soil moisture code](https://user-images.githubusercontent.com/62362612/78201893-1d341f80-74d6-11ea-81cb-ffc971c7bcbd.png)
 
 ![Image](missingimage.png)
 
