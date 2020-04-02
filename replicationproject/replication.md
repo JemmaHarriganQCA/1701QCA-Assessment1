@@ -101,9 +101,8 @@ How this relates to the project I am working on: I think just the general attitu
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-image of flowchart
+![self-waterer flowchart](https://user-images.githubusercontent.com/62362612/78208476-d64f2580-74e7-11ea-876d-5c7556dd5077.JPG)
 
 ## Process documentation
 
@@ -114,7 +113,7 @@ It took me a bit to manage to get all my materials, I had to wait for them to co
 
 ![Materials](https://user-images.githubusercontent.com/62362612/78202033-887df180-74d6-11ea-9eeb-f77d1bdff5b3.JPG)
 
-image of flowchart
+![Moisture sensor flowchart](https://user-images.githubusercontent.com/62362612/78208418-b4ee3980-74e7-11ea-8177-8b99a431347e.JPG)
 
 I followed the first step of testing the dry and wet dirt to callibrate the Microbit, taking the Javascript from the insructions on the Makecode website. 
 
@@ -140,7 +139,7 @@ The next step was to build the project. I had studied it a few times before so I
 
 My materials worked fine til I added the microbit in and put on all the wires and clips. I realised that I needed a better setup with the pot and the cup with the water. The cup was too small so the lever wouldn't reach the pot properly. So I went to find a taller cup and a smaller pot plant to use. I found the perfect size and tested it with the whole process to find that it worked perfectly.
 
-image of outcome
+![final](https://user-images.githubusercontent.com/62362612/78208880-d56ac380-74e8-11ea-819e-25d4bf8f8196.JPG)
 
 ## Project outcome ##
 
