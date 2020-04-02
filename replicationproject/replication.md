@@ -134,7 +134,8 @@ With the success of the Soil Moisture tester, I began to code for the Self water
 
 The next step was to build the project. I had studied it a few times before so I went ahead to put it all together. 
 
-![Image](missingimage.png)
+![Plant waterer code](https://user-images.githubusercontent.com/62362612/78201538-338dab80-74d5-11ea-94b6-c450be8890f4.png)
+
 
 My materials worked fine til I added the microbit in and put on all the wires and clips. I realised that I needed a better setup with the pot and the cup with the water. The cup was too small so the lever wouldn't reach the pot properly. So I went to find a taller cup and a smaller pot plant to use. I found the perfect size and tested it with the whole process to find that it worked perfectly.
 
