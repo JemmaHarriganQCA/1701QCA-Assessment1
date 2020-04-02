@@ -154,11 +154,11 @@ This Project is a self plant watering system, designed for any individual who is
 
 ### Showcase image ###
 
-![Image](missingimage.png)
+![Final view 2](https://user-images.githubusercontent.com/62362612/78210224-e87f9280-74ec-11ea-9017-f6304cda53b7.jpg)
 
 ### Additional view ##
 
-![Image](missingimage.png)
+![Final view 1](https://user-images.githubusercontent.com/62362612/78209971-013b7880-74ec-11ea-98b5-98223d39b298.jpg)
 
 ### Reflection ###
 
