@@ -128,7 +128,7 @@ The last step of my moisture tester was to lower the power through the brightnes
 
 ![Image](missingimage.png)
 
-With the success of the Soil Moisture tester, I began to code for the Self waterer. It essentially added the Micro-servo motor, making it tilt 80 degrees then pausing then tilting back to its original position. I copied the code from the instructional website.
+With the success of the Soil Moisture tester, I began to code for the Self waterer. It essentially added the Micro-servo motor, making it tilt 80 degrees then pausing then tilting back to its original position. A well as simply adding to the moisture sensor code so when it read that it was below 500 it would water the plant, when it read it was over 500 then it wouldn't. I copied the code from the instructional website.
 
 ![Image](missingimage.png)
 
