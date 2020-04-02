@@ -15,7 +15,7 @@ Interactive Plant wall
 
 https://vimeo.com/275720962
 
-
+![interactive plant wall](https://user-images.githubusercontent.com/62362612/78209544-aa816f00-74ea-11ea-9b33-7a6e13f7a165.png)
 
 This project is related to mine because it uses a soil moisture tester. They have used it for educational reasons but have added some fun things to it, thats why I found this interesting to watch.
 
@@ -24,7 +24,7 @@ Interactive Sound Plant
 
 https://vimeo.com/105370889
 
-![Image](missingimage.png)
+![sound plant](https://user-images.githubusercontent.com/62362612/78209534-a0f80700-74ea-11ea-81af-3aa947fa151c.png)
 
 This project is related to mine because they use a soil moisture tester to tell when the soil is dry or not. They have made it with sound rather than just a screen, which I think was a cool idea.
 
@@ -60,7 +60,7 @@ The Wooden Mirror
 
 https://www.youtube.com/watch?list=PL42CBF685AE29AEFC&v=BZysu9QcceM&feature=emb_logo
 
-![Image](missingimage.png)
+![wooden-mirror](https://user-images.githubusercontent.com/62362612/78209504-8aea4680-74ea-11ea-9308-1dba39aa73bc.gif)
 
 This project is related to mine because of the use of Servo Motors, through the interaction of a sensor. They use motion, whilst I use a soil moisture sensor. 
 
